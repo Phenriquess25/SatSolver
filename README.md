@@ -186,4 +186,4 @@ MIT License - Livre para uso acadêmico e comercial.
 =======
 # SatSolver
 Projeto da Disciplina de Estrutura de Dados 
->>>>>>> 42fb779ef556424c7474e4b4333cffd82ef4ad3a
+
