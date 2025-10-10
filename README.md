@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 SAT Solver em C - Algoritmo DPLL
 
 Um solver SAT (Boolean Satisfiability Problem) robusto implementado em C usando o algoritmo DPLL (Davis-Putnam-Logemann-Loveland) com heurísticas avançadas e backtracking otimizado.
@@ -182,3 +183,7 @@ MIT License - Livre para uso acadêmico e comercial.
 ---
 
 **Desenvolvido para disciplina de Estrutura de Dados - UFAL** 🎓
+=======
+# SatSolver
+Projeto da Disciplina de Estrutura de Dados 
+>>>>>>> 42fb779ef556424c7474e4b4333cffd82ef4ad3a
