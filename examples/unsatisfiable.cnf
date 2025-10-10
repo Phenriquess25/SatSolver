@@ -1,0 +1,5 @@
+c Exemplo insatisfazível 
+c Contradição: x1 ∧ ¬x1
+p cnf 1 2
+1 0
+-1 0
