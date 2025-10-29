@@ -181,8 +181,18 @@ MIT License - Livre para uso acadêmico e comercial.
 
 ---
 
-**Desenvolvido para disciplina de Estrutura de Dados - UFAL** 🎓
-=======
-# SatSolver
-Projeto da Disciplina de Estrutura de Dados 
+# Projeto Sat soler | Estrvutura de Dados
+
+Projeto  da disciplina de Estrutura de Dados. 2º semestre(2025.1) do curso de Engenharia da Computação na UFAL: Universidade Federal de Alagoas.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91018438/204195385-acc6fcd4-05a7-4f25-87d1-cb7d5cc5c852.png" alt="animated" />
+</p>
+
+<center>
+Equipe:
+
+  Jader Rogerio dos Santos Neto | Guilherme Nunes Alves | Carlos Antunis Bonfim de Silva Santos | Pedro Henrique Santos da Silva | Carlos Leonardo Rodrigues Novaes Carvalho
+
+ </center>
 
