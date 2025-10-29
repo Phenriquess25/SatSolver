@@ -181,7 +181,7 @@ MIT License - Livre para uso acadêmico e comercial.
 
 ---
 
-# Projeto Sat soler | Estrvutura de Dados
+# Projeto Sat solver | Estrvutura de Dados
 
 Projeto  da disciplina de Estrutura de Dados. 2º semestre(2025.1) do curso de Engenharia da Computação na UFAL: Universidade Federal de Alagoas.
 
